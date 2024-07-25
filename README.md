@@ -6,11 +6,11 @@
 
 ## Screenshots of the deployed app
 
-![Screenshot 1](images/app1.png)
+![Screenshot 1](app1.png)
 
-![Screenshot 2](images/app2.png)
+![Screenshot 2](app2.png)
 
-![Screenshot 1](images/app3.png)
+![Screenshot 1](app3.png)
 
-![Screenshot 1](images/app4.png)
+![Screenshot 1](app4.png)
 
